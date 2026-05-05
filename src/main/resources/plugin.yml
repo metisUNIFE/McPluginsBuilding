@@ -1,0 +1,9 @@
+name: FirstPlugin
+version: 1.0
+main: org.example.Main
+api-version: '26.1.2'
+
+commands:
+  spada:
+    description: La spada per ballare
+    usage: /spada
