@@ -4,6 +4,6 @@ main: org.example.Main
 api-version: '26.1.2'
 
 commands:
-  spada:
-    description: La spada per ballare
-    usage: /spada
+  bacchetta:
+    description: Explosion batoon
+    usage: /bacchetta
