@@ -7,3 +7,6 @@ commands:
   bacchetta:
     description: Explosion batoon
     usage: /bacchetta
+  reassembly:
+    description: Seq 1 reassembly
+    usage: /reassembly
